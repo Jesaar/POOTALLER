@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOTALLER", "POOTALLER\POOTALLER.csproj", "{549C4E4E-559B-410E-A36E-F5E153862C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549C4E4E-559B-410E-A36E-F5E153862C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549C4E4E-559B-410E-A36E-F5E153862C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549C4E4E-559B-410E-A36E-F5E153862C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549C4E4E-559B-410E-A36E-F5E153862C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0AD59B-5483-46CD-9316-2435DB076499}
+	EndGlobalSection
+EndGlobal
